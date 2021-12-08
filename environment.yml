@@ -1,0 +1,7 @@
+name: python 3.8
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
